@@ -1,0 +1,31 @@
+Progetto (gruppo da due) (col tutor)
+
+Presentazione (tipo powerpoint) con screenshot dell'app. Non vuole codice, che chiede dopo.
+Demo dell'app. Se ce l'hai installata sul tuo telefono, gliela fai vedere da lì, proiettandolo allo schermo o semplicemente avvicinandoti e facendogli vedere le schermate dal telefono. Altrimenti tramite emulatore (sempre proiettando allo schermo). Non fa molte domande, chiede più che altro che siano mostrate le funzionalità chiave del progetto. Se c'è qualche bug visivo non gli interessa molto, puoi passare avanti, magari tenendo pronti screenshot dell'app di "come dovrebbe essere".
+Domande sul codice, non teoriche. Chiede come hai implementato funzionalità x o y. È facile chieda funzionalità mostrate durante la presentazione. Nel nostro gruppo da due persone ha fatto una domanda senza specificare che doveva rispondere, mentre alla seconda ha chiesto rispondesse l'altro membro.
+
+
+
+
+Orale (con Montori)
+
+Cos'è android runtime? Da quale linguaggio a quale linguaggio compila?
+Cosa sono gli intent?
+Cos'è il content provider? Domanda successiva, approfondita: come avvengono le richieste al content provider? (risposta, sotto forma di query SQL)
+
+Lifecycle di un'activity? Cosa succede quando ruoto il telefono? (l'activity viene distrutta e ricreata)
+Cos'è HAL?
+MVP?
+
+
+Orale (con Montori, del giorno prima, altre due persone)
+
+cos'è android runtime? che tipi di compilazione applica?
+differenza tra activity e fragment?
+situazione: se una mia applicazione manda un intent, un'altra viene aperta, dopo averla aperta io premo il tasto "indietro" del telefono, come fa il sistema operativo a sapere che devo tornare all'app di prima? dove se lo salva? (backstack)
+come comunicano i thread?
+
+HAL?
+ciclo di vita dell'activity?
+cosa succede all'activity quando giro il telefono (da portrait a landscape)?
+differenza tra thread e servizio?
